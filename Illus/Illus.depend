@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689521431 source:d:\kod\alx\illus\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689195498 source:d:\kod\alx\building a guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687985328 source:d:\kod\alx\bear\main.c
+	<stdio.h>
+	<stdlib.h>
+

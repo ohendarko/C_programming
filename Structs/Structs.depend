@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688910231 source:d:\kod\alx\structs\main.c
+	<stdio.h>
+	<stdlib.h>
+

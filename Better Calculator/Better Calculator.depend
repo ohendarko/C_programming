@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1688901869 source:d:\kod\alx\better calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1688903787 source:d:\kod\alx\better calculator\better calculator.c
+	<stdio.h>
+	<stdlib.h>
+

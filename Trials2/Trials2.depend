@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694360661 source:d:\kod\alx\trials2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+

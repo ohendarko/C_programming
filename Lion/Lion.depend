@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688381653 source:d:\kod\alx\lion\main.c
+	<stdio.h>
+	<stdlib.h>
+
