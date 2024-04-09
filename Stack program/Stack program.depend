@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697633736 source:d:\kod\alx\stack program\main.c
+	<stdio.h>
+	<stdlib.h>
+
